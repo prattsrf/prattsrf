@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá, eu sou o Rafael
 
-<!--
-**prattsrf/prattsrf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação com foco em Python e análise de dados. Tenho experiência prática com projetos utilizando dados reais, automação e manipulação com Pandas.
 
-Here are some ideas to get you started:
+## Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Price Tracker: monitoramento automático de preços com Selenium  
+- Sales Analysis: análise de vendas com dados reais (Olist)
+
+## Tecnologias
+
+Python, Pandas, Selenium, Matplotlib, Git
+
+## Objetivo
+
+Busco oportunidade como estagiário ou desenvolvedor júnior na área de tecnologia.
